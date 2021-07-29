@@ -1,0 +1,13 @@
+HELP.md
+*.log
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+downloads
+
+
+### IntelliJ IDEA ###
+.idea
+
